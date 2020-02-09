@@ -1,0 +1,4 @@
+io\javabrains\movieinfoservice\MovieInfoServiceApplication.class
+io\javabrains\movieinfoservice\models\MovieSummary.class
+io\javabrains\movieinfoservice\models\Movie.class
+io\javabrains\movieinfoservice\resources\MovieResource.class
